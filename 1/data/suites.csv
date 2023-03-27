@@ -1,2 +1,2 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Mon Mar 27 18:40:09 GMT 2023","Mon Mar 27 18:40:12 GMT 2023","2923","","DemoTest","","DemoTest","testDualList","testDualList()",""
+"passed","Mon Mar 27 18:40:30 GMT 2023","Mon Mar 27 18:40:33 GMT 2023","2573","","DemoTest","","DemoTest","testDualList","testDualList()",""
